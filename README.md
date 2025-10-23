@@ -1,10 +1,9 @@
-<div align="center">
-
 ## _void-dotfiles-fastfetch_
+
 
 _Image_
 
-<img width="740" height="406" alt="2025-10-23_17-51" src="https://github.com/user-attachments/assets/4d140575-ae86-46ad-ba72-24a46ab04aa3" />
+<img align="center" width="740" height="406" alt="2025-10-23_17-51" src="https://github.com/user-attachments/assets/4d140575-ae86-46ad-ba72-24a46ab04aa3" />
 
 <br>
 <br>
@@ -22,10 +21,8 @@ _ASCII_
 <img width="740" height="390" alt="2025-10-23_17-49" src="https://github.com/user-attachments/assets/e93cda67-d426-4338-81e7-933c62b95250" />
 
 
-</details>
 <br>
 
-<div align="left">
 
 <a id="installation"></a>  
 <img src="https://github.com/user-attachments/assets/7e1e2fa0-ab50-4901-a024-fe731fb44ab3" width="200"/>
@@ -35,9 +32,10 @@ _ASCII_
  git clone https://github.com/sofijacom/void-dotfiles-fastfetch.git ~/.config/fastfetch
 ```
 
-> [!NOTE]
->  
+
+> [!NOTE] 
 > _To display images in `*.png` format, set_:
+
 
 ```
 sudo xbps-install -Su ImageMagick
