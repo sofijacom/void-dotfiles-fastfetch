@@ -1,4 +1,4 @@
-## _void-dotfiles-fastfetch_
+# [Void-dotfiles-fastfetch](https://github.com/void-dotfiles-fastfetch) Installer
 
 
 _Image_
