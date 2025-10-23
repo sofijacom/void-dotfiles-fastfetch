@@ -10,6 +10,11 @@ _Image_
  
 <img width="740" height="404" alt="2025-10-23_17-50" src="https://github.com/user-attachments/assets/a8ec7aa7-fd5e-4276-bcec-713ffdd9aeb9" />
 
+<br>
+<br>
+
+<img width="740" height="403" alt="2025-10-23_19-16" src="https://github.com/user-attachments/assets/c3a91403-9d8c-48a2-9ab0-dda2a2de749c" />
+
 
 _Default_
 
