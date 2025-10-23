@@ -8,7 +8,7 @@ _Image_
 <img width="740" height="404" alt="2025-10-23_17-50" src="https://github.com/user-attachments/assets/a8ec7aa7-fd5e-4276-bcec-713ffdd9aeb9" />
 
 
-_Defalt_
+_Default_
 
 <img width="740" height="409" alt="2025-10-23_17-52" src="https://github.com/user-attachments/assets/0b28c71d-b3f6-4f74-a115-7a20a7ee9de3" />
 
