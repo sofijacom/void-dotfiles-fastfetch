@@ -1,4 +1,4 @@
-# [Void-dotfiles-fastfetch](https://github.com/sofijacom/void-dotfiles-fastfetch) Installer
+# [Void-dotfiles-fastfetch](https://github.com/sofijacom/void-dotfiles-fastfetch)
 
 
 _Image_
