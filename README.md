@@ -13,6 +13,12 @@ _Image_
 <br>
 <br>
 
+<img width="740" height="406" alt="2025-10-23_19-21" src="https://github.com/user-attachments/assets/0b0ec4e4-eab3-4390-9089-0aaeb93054b6" />
+
+
+<br>
+<br>
+
 <img width="740" height="403" alt="2025-10-23_19-16" src="https://github.com/user-attachments/assets/c3a91403-9d8c-48a2-9ab0-dda2a2de749c" />
 
 
