@@ -51,3 +51,10 @@ _ASCII_
 ```
 sudo xbps-install -Su ImageMagick
 ```
+
+> font-ttf-hack-nerd
+  
+```
+ 
+ https://github.com/sofijacom/KLV-plasma-KDE-CE/raw/refs/heads/kio-admin/programs/ttf-hack-nerd-3.3_1.noarch.xbps
+```
